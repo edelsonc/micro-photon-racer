@@ -1,7 +1,7 @@
 # Photon-Racer
-Photon-Racer is based off of the brackets original theme [Photon Racer](https://github.com/Brackets-Themes/PhotonRacer). 
+Photon-Racer is based on the brackets original theme [Photon Racer](https://github.com/Brackets-Themes/PhotonRacer). 
 
-Photon-Racer is a *dark* theme make with speed in mind
+Photon-Racer is a *dark* theme made with speed in mind
 
 ![Screenshot](ScreenShot.png)
 
