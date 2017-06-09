@@ -1,0 +1,14 @@
+[{
+  "Name": "photon-racer",
+  "Description": "Micro editor version of Brackets' Photon Racer theme.",
+  "Tags": ["colorscheme"],
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "Url": ,
+      "Require": {
+        "micro": ">=1.1.3"
+      }
+    }
+  ]
+}]
