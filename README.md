@@ -3,7 +3,7 @@ Photon-Racer is based off of the brackets original theme [Photon Racer](https://
 
 Photon-Racer is a *dark* theme make with speed in mind
 
-![Screenshot](ScreenShot)
+![Screenshot](ScreenShot.png)
 
 ## Installation
 
